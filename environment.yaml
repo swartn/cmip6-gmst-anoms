@@ -1,0 +1,29 @@
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.*
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray
+  - sparse
+  - cftime=1.0.3.4
+  - cartopy
+  - netcdf4
+  - h5py
+  - h5netcdf
+  - regionmask
+  - esmpy=7.1.0
+  - xesmf
+  - intake
+  - intake-xarray
+  - zarr
+  - xgcm
+  - cmip6_preprocessing
+  - nc-time-axis
+  - pip
+  - pip:
+    - git+https://github.com/intake/filesystem_spec.git@master
+    - intake-esm
