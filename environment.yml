@@ -23,6 +23,7 @@ dependencies:
   - xgcm
   - cmip6_preprocessing
   - nc-time-axis
+  - tqdm
   - pip
   - pip:
     - gcsfs
