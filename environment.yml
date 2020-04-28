@@ -25,5 +25,6 @@ dependencies:
   - nc-time-axis
   - pip
   - pip:
+    - gcsfs
     - git+https://github.com/intake/filesystem_spec.git@master
     - intake-esm
