@@ -12,7 +12,7 @@ Run the notbook computation yourself online using pangeo binder:
 - gmst_canesm5.ipynb : As for CMIP6, but using only CanESM5 large ensemble (50 members)
 
 # CSV files
-The notbook outputs CSV files for each experiment (historical, and tier 1 SSPs). CSV files list the annual mean GMST by year (row) and model (column):
+The notbook outputs CSV files for each experiment (historical, and tier 1 SSPs). CSV files list the annual mean GMST by year (row) and model (column). The following files are available in this repository:
 
 - cmip6_historical_gmst_swartn_gmst_anoms.csv
 - cmip6_ssp126_gmst_swartn_gmst_anoms.csv
@@ -22,8 +22,7 @@ The notbook outputs CSV files for each experiment (historical, and tier 1 SSPs).
 
 
 # License
-Canadian Open Government License 
-https://open.canada.ca/en/open-government-licence-canada
+[Open Government License - Canada](https://open.canada.ca/en/open-government-licence-canada)
 
 # Author
 Neil Swart, CCCma, April 2020.
