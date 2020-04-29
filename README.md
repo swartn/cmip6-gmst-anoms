@@ -1,8 +1,8 @@
 # CMIP6 GMST anomalies
 
-Repository of notebooks for computing GMST anomalies in CMIP6, relative to the 1850 to 1900 mean, using pangeo stack and Google Cloud CMIP6 data. This is done for realization `r1i1p1f1` of all available models, and for the historical and tier 1 SSP experiments.
+Repository of notebooks for computing GMST anomalies in CMIP6, relative to the 1850 to 1900 mean, using pangeo stack and Google Cloud CMIP6 data. This is done for realization `r1i1p1f1` of all available models, and for the historical and tier 1 SSP experiments. CSV files of the result are also provided here.
 
-Run it with the pangeo binder:
+Run the notbook computation yourself online using pangeo binder:
 
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/swartn/cmip6-gmst-anoms.git/master?filepath=gmst_cmip6.ipynb)
 
@@ -27,5 +27,6 @@ https://open.canada.ca/en/open-government-licence-canada
 
 # Author
 Neil Swart, CCCma, April 2020.
-@neil_c_swart
+
+[@neil_c_swart](https://twitter.com/Neil_C_Swart)
 
