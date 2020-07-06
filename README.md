@@ -1,6 +1,8 @@
 # CMIP6 GMST anomalies
 
-Repository of notebooks for computing GMST anomalies in CMIP6, relative to the 1850 to 1900 mean, using pangeo stack and Google Cloud CMIP6 data. This is done for realization `r1i1p1f1` of all available models, and for the historical and tier 1 SSP experiments. CSV files of the result are also provided here.
+Repository of notebooks for computing GMST anomalies in CMIP6, relative to the 1850 to 1900 mean, using pangeo stack and Google Cloud CMIP6 data. This is done for realization `r1i1p1f1` of all available models, and for the historical and tier 1 SSP experiments. CSV files of the result are also provided here. This work can be cited using the doi: 
+
+[![DOI](https://zenodo.org/badge/259493437.svg)](https://zenodo.org/badge/latestdoi/259493437)
 
 Run the notbook computation yourself online using pangeo binder:
 
